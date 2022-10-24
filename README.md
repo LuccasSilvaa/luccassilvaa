@@ -1,6 +1,6 @@
 ### Olá! Eu sou Luccas Silva 👋
 
-- 🌱 Estudando Javascript
+- 🌱 Estudando React
 
 <div align="center">
   <a href="https://github.com/LuccasSilvaa">
